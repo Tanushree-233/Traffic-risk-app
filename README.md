@@ -6,7 +6,7 @@ Built with **Streamlit**, **Random Forest**, and **ARIMA** to provide real-time 
 ---
 
 ## 🌟 Live Demo
-Deployed on Streamlit Community Cloud (replace with your link after deployment).
+Deployed on Streamlit Community Cloud (https://traffic-risk-app-vbjd8rojfissbdxc2zymdu.streamlit.app/#key-insights).
 
 ---
 
