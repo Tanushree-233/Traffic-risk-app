@@ -5,3 +5,6 @@ scikit-learn
 matplotlib
 statsmodels
 shap
+requests
+folium
+streamlit-folium
